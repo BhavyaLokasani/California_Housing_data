@@ -16,6 +16,6 @@ Steps in a Machine Learning Project
   
   6.	Fine-tune	your	model 
   
-  7.	Present	your	solution 
+  7.	Save	your	solution 
   
-  8.	Launch,	monitor,	and	maintain	your	system
+  
